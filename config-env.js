@@ -23,6 +23,6 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "PRABATH-MD_e28xFMFp",
 BOT_NUMBER: process.env.BOT_NUMBER || "254 740 419256",
 PASSWORD: process.env.PASSWORD || "kanko3692",
-GITHUB_USERNAME: process.env.GITHUB_USERNAME || "Enter your github username",
-GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "Enter your GITHUB_AUTH_TOKEN"
+GITHUB_USERNAME: process.env.GITHUB_USERNAME || "underrated527",
+GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "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"
 };
